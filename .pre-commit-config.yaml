@@ -21,7 +21,7 @@ repos:
 
   # A tool to automatically upgrade syntax for newer versions of the python language.
   - repo: https://github.com/asottile/pyupgrade
-    rev: v2.37.3
+    rev: v3.2.0
     hooks:
       - id: pyupgrade
         args: [ --py310-plus ]
@@ -45,7 +45,7 @@ repos:
 
   # The uncompromising code formatter
   - repo: https://github.com/psf/black
-    rev: 22.8.0
+    rev: 22.10.0
     hooks:
       - id: black
 
