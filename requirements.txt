@@ -3,3 +3,4 @@ psycopg2-binary # PostgreSQL database adapter for the Python (binary version for
 python-binance  # Python client for Binance Exchange
 pandas          # Python Data Analysis Library
 seaborn         # Statistical data visualization
+requests        # HTTP library for Python
