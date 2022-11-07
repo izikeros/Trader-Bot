@@ -1,0 +1,5 @@
+ujson           # Ultrafast JSON encoder and decoder written in pure Python
+psycopg2-binary # PostgreSQL database adapter for the Python (binary version for macOS)
+python-binance  # Python client for Binance Exchange
+pandas          # Python Data Analysis Library
+seaborn         # Statistical data visualization
